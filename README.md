@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Vimanyu Jain<br><br>Aspiring Software Developer from India<br>   •🌱 I’m currently learning React, Django, Retrofit<br>   • 💬 Ask me about Java, Dart, Kotlin, C++<br>   • 🔭 I’m currently working on OpenCV for face detection system using java<br>   • 📬 Reach me at :<br>        vimanyujain07@gmail.com<br>   • ⚡ Fun fact : When I'm not coding, I'm leveling up in my favorite games—turns out, debugging and boss battles have more in common than you'd think! 🕹️👾<br><br>
+Hi 👋, I'm Vimanyu Jain<br><br>Aspiring Software Developer from India<br>   •🌱 I’m currently learning GetX, Retrofit<br>   • 💬 Ask me about Java, Dart, Kotlin, C++<br>   • 🔭 I’m currently working on OpenCV for face detection system using java<br>   • 📬 Reach me at :<br>        vimanyujain07@gmail.com<br>   • ⚡ Fun fact : When I'm not coding, I'm leveling up in my favorite games—turns out, debugging and boss battles have more in common than you'd think! 🕹️👾<br><br>
 
 
 ## 🌐 Socials:
