@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Vimanyu Jain<br><br>Aspiring Software Developer from India<br>   •🌱 I’m currently focusing of DSA<br>   • 💬 Ask me about Java, Dart, Kotlin, C++<br>   • 🔭 I’m currently working as an App developer intern<br>   • 📬 Reach me at :<br>        vimanyujain07@gmail.com<br>   • ⚡ Fun fact : When I'm not coding, I'm leveling up in my favorite games—turns out, debugging and boss battles have more in common than you'd think! 🕹️👾<br><br>
+Hi 👋, I'm Vimanyu Jain<br><br>Aspiring Software Developer from India<br>   •🌱 I’m currently focusing on DSA<br>   • 💬 Ask me about Java, Dart, Kotlin, C++<br>   • 🔭 I’m currently working as an App developer intern<br>   • 📬 Reach me at :<br>        vimanyujain07@gmail.com<br>   • ⚡ Fun fact : When I'm not coding, I'm leveling up in my favorite games—turns out, debugging and boss battles have more in common than you'd think! 🕹️👾<br><br>
 
 
 ## 🌐 Socials:
